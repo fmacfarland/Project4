@@ -1,3 +1,4 @@
+// Default is "World"
 #include <iostream>
 using namespace std;
 
